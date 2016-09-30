@@ -1,1 +1,16 @@
 Beginning on devops
+=====================================
+
+Structure for my devops:
+
+Git+Jenkins+maven+docker/ansible
+
+Python+nginx+mysql+bootstrap+tornado
+
+Monitor+Log
+
+=====================================
+
+Host setup
+
+Digital Ocean / Ubuntu 14.04
